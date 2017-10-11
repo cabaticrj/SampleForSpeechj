@@ -1,1 +1,1 @@
-# SampleForSpeechj
+This project is for practicing on creating a website for other projects. This includes the automatic creation of folders and saving of files as well as fetching the files that are present inside a folder.
